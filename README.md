@@ -12,7 +12,7 @@ Com base na análise de macrotendências, as principais profissões com crescime
 Ou seja, **dominar essas ferramentas** pode ser um fator chave para impulsionar a carreira, independente da área de atuação. Afinal, com o crescimento de IAs Generativas, como o **Google Gemini**, essas transformações estão apenas começando.
 
 # Conheça o Gemini
-O **[Gemini** é o maior e mais hábil modelo de IA do Google](https://blog.google/intl/pt-br/novidades/tecnologia/apresentando-o-gemini-nosso-maior-e-mais-habil-modelo-de-ia/), com capacidade de **gerar textos, responder perguntas e, até mesmo, criar código**. Seus recursos multimodais podem ajudar a compreender informações complexas, sejam elas escritas ou visuais.
+O [**Gemini** é o maior e mais hábil modelo de IA do Google](https://blog.google/intl/pt-br/novidades/tecnologia/apresentando-o-gemini-nosso-maior-e-mais-habil-modelo-de-ia/), com capacidade de **gerar textos, responder perguntas e, até mesmo, criar código**. Seus recursos multimodais podem ajudar a compreender informações complexas, sejam elas escritas ou visuais.
 
 Isso o torna **excepcionalmente hábil** em extrair insights, proporcionando avanços de forma ainda mais veloz em muitos campos, da ciência às finanças.
 E é neste universo que estudamos ao longo da **Imersão Inteligência Artificial**. É **possível desenvolver habilidades em IA e criar projetos do zero** com o Gemini API e o Google AI Studio.
