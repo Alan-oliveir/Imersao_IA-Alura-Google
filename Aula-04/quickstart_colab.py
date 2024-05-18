@@ -62,7 +62,7 @@ In Colab, add the key to the secrets manager under the "🔑" in the left panel.
 # Import the Python SDK
 import google.generativeai as genai
 
-GOOGLE_API_KEY='AIzaSyB0OKBemZqfKxCWhFWbU1PEy-LnV8UrM80'
+GOOGLE_API_KEY='GOOGLE_API_KEY'
 genai.configure(api_key=GOOGLE_API_KEY)
 
 """## Initialize the Generative Model
