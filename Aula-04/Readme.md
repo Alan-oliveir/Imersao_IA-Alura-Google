@@ -1,7 +1,7 @@
 ## Imersão IA – Aula 04
 
 **Nesta aula desenvolvemos um chatbot com a Gemini API pelo Google Colab**   
-<a target="_blank" href="https://colab.research.google.com/github/Alan-oliveir/Captura-Faces-OpenCV-ResNet/blob/main/Aula-04/Chatbot_Gemini.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/Alan-oliveir/Imersao_IA-Alura-Google/blob/main/Aula-04/Chatbot_Gemini.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
