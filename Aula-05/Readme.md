@@ -4,7 +4,7 @@
 <a target="_blank" href="https://colab.research.google.com/github/Alan-oliveir/Imersao_IA-Alura-Google/blob/main/Aula-05/Imersao_IA_Aula_05.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-/Imersao_IA-Alura-Google/blob/main/Aula-05/Imersao_IA_Aula_05.ipynb
+
 - Fazer uma LLM (Large Language Model) para acessar documentos;
 - Criar um embedding pelo Google Colab.
 
